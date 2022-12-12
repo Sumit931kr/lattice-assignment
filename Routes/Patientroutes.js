@@ -6,6 +6,7 @@ import Hospital from "../Modules/Hospital.js";
 import { body, validationResult } from 'express-validator'
 
 
+
 const router = express.Router();
 
 // Creating the APIs

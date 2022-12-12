@@ -1,0 +1,932 @@
+[{
+  "_id": {
+    "$oid": "6395febb2cc9a080a207634e"
+  },
+  "psy": {
+    "$oid": "6395fc5bd06b1cb81d00660c"
+  },
+  "Name": "Sumit Kumar",
+  "Address": "Vedram colony palla no 1",
+  "Email": "Sumit931@gmail.com",
+  "Phone_number": "9316776839",
+  "Password": "SUMit67@@",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774459958"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395fef22cc9a080a2076350"
+  },
+  "psy": {
+    "$oid": "6395fc5bd06b1cb81d00660c"
+  },
+  "Name": "Amit Kumar",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774514997"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff1e2cc9a080a2076352"
+  },
+  "psy": {
+    "$oid": "6395fc42d06b1cb81d00660a"
+  },
+  "Name": "manish Shisodhia",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774558907"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff2d2cc9a080a2076354"
+  },
+  "psy": {
+    "$oid": "6395fc42d06b1cb81d00660a"
+  },
+  "Name": "mangal pandey",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774573901"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff4c2cc9a080a2076356"
+  },
+  "psy": {
+    "$oid": "6395fc36d06b1cb81d006608"
+  },
+  "Name": "Deppika devi",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774604639"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff5d2cc9a080a2076358"
+  },
+  "psy": {
+    "$oid": "6395fc36d06b1cb81d006608"
+  },
+  "Name": "priyanka dutt",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774621535"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff7a2cc9a080a207635a"
+  },
+  "psy": {
+    "$oid": "6395fc2cd06b1cb81d006606"
+  },
+  "Name": "jagjit singh",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774650052"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ff842cc9a080a207635c"
+  },
+  "psy": {
+    "$oid": "6395fc2cd06b1cb81d006606"
+  },
+  "Name": "Arjit singh",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774660108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ffa22cc9a080a207635e"
+  },
+  "psy": {
+    "$oid": "6395e52f208a3c899e626638"
+  },
+  "Name": "Himesh",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774690554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6395ffaf2cc9a080a2076360"
+  },
+  "psy": {
+    "$oid": "6395e52f208a3c899e626638"
+  },
+  "Name": "Ramesh",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774703308"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396003a5a1381f74d55e8e8"
+  },
+  "psy": {
+    "$oid": "6395e52f208a3c899e626638"
+  },
+  "Name": "Ramesh",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670774842499"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396a7e859ad6461ab2d133c"
+  },
+  "psy": {
+    "$oid": "6396a79f59ad6461ab2d133a"
+  },
+  "Name": "Bittu",
+  "Address": "Surya colony palla no 1",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670817768181"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aa8159ad6461ab2d133e"
+  },
+  "psy": {
+    "$oid": "6396a79f59ad6461ab2d133a"
+  },
+  "Name": " Mangla Devi",
+  "Address": "Sector 37 faridabad",
+  "Email": "AMit55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818433925"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aaeb59ad6461ab2d134a"
+  },
+  "psy": {
+    "$oid": "6396a79159ad6461ab2d1338"
+  },
+  "Name": " Manju Devi",
+  "Address": "Sector 37 faridabad",
+  "Email": "manju55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818539139"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aafc59ad6461ab2d134c"
+  },
+  "psy": {
+    "$oid": "6396a79159ad6461ab2d1338"
+  },
+  "Name": "Chris Rock",
+  "Address": "Sector 37 faridabad",
+  "Email": "manju55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818556445"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ab1959ad6461ab2d134e"
+  },
+  "psy": {
+    "$oid": "6396a75859ad6461ab2d1330"
+  },
+  "Name": "Will Smith",
+  "Address": "Sector 37 faridabad",
+  "Email": "Will55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818585480"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ab2659ad6461ab2d1350"
+  },
+  "psy": {
+    "$oid": "6396a75859ad6461ab2d1330"
+  },
+  "Name": "Jade Smith",
+  "Address": "Sector 37 faridabad",
+  "Email": "jade55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818598445"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ab9d59ad6461ab2d135a"
+  },
+  "psy": {
+    "$oid": "6396a73859ad6461ab2d132e"
+  },
+  "Name": "Milly Bobby Brown",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818717266"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396abbc59ad6461ab2d1364"
+  },
+  "psy": {
+    "$oid": "6396a73859ad6461ab2d132e"
+  },
+  "Name": "Nanci",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818748608"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396abf159ad6461ab2d136e"
+  },
+  "psy": {
+    "$oid": "6396a72759ad6461ab2d132c"
+  },
+  "Name": "James Bond",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818801335"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396abff59ad6461ab2d1370"
+  },
+  "psy": {
+    "$oid": "6396a72759ad6461ab2d132c"
+  },
+  "Name": "Harry Potter",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818815018"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ac2559ad6461ab2d137a"
+  },
+  "psy": {
+    "$oid": "6396a70e59ad6461ab2d132a"
+  },
+  "Name": "Harminye",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818853671"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ac3059ad6461ab2d137c"
+  },
+  "psy": {
+    "$oid": "6396a70e59ad6461ab2d132a"
+  },
+  "Name": "Dumbaldore",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818864214"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ac5259ad6461ab2d1386"
+  },
+  "psy": {
+    "$oid": "6396a70e59ad6461ab2d132a"
+  },
+  "Name": "unspoken Nmme",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670818898192"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ade459ad6461ab2d1395"
+  },
+  "psy": {
+    "$oid": "6396ac9f59ad6461ab2d1390"
+  },
+  "Name": "Shazam",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819300635"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396adec59ad6461ab2d1397"
+  },
+  "psy": {
+    "$oid": "6396ac9f59ad6461ab2d1390"
+  },
+  "Name": "Superman",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819308290"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ae1c59ad6461ab2d139b"
+  },
+  "psy": {
+    "$oid": "6396ae0359ad6461ab2d1399"
+  },
+  "Name": "Batman",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819356896"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ae2659ad6461ab2d139d"
+  },
+  "psy": {
+    "$oid": "6396ae0359ad6461ab2d1399"
+  },
+  "Name": "Wonder Women",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819366180"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ae4259ad6461ab2d13a1"
+  },
+  "psy": {
+    "$oid": "6396ae3259ad6461ab2d139f"
+  },
+  "Name": "Aqua man",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819394584"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396ae4f59ad6461ab2d13a3"
+  },
+  "psy": {
+    "$oid": "6396ae3259ad6461ab2d139f"
+  },
+  "Name": "Peace Maker",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819407948"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aeba59ad6461ab2d13a7"
+  },
+  "psy": {
+    "$oid": "6396ae8759ad6461ab2d13a5"
+  },
+  "Name": "Cyborg",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819514096"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aec359ad6461ab2d13a9"
+  },
+  "psy": {
+    "$oid": "6396ae8759ad6461ab2d13a5"
+  },
+  "Name": "Harley Queen",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819523228"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aedf59ad6461ab2d13ad"
+  },
+  "psy": {
+    "$oid": "6396aecf59ad6461ab2d13ab"
+  },
+  "Name": "Joker",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819551172"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aee659ad6461ab2d13af"
+  },
+  "psy": {
+    "$oid": "6396aecf59ad6461ab2d13ab"
+  },
+  "Name": "Panquine",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819558354"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396af4d59ad6461ab2d13bc"
+  },
+  "psy": {
+    "$oid": "6396af3b59ad6461ab2d13ba"
+  },
+  "Name": "Captain America",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819661315"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396af6459ad6461ab2d13be"
+  },
+  "psy": {
+    "$oid": "6396af3b59ad6461ab2d13ba"
+  },
+  "Name": "Black Widow",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819684660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396af8559ad6461ab2d13c5"
+  },
+  "psy": {
+    "$oid": "6396af3b59ad6461ab2d13ba"
+  },
+  "Name": "Haweye",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819717382"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396af8d59ad6461ab2d13c7"
+  },
+  "psy": {
+    "$oid": "6396af3b59ad6461ab2d13ba"
+  },
+  "Name": "Iron Man",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819725598"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396afcd59ad6461ab2d13d0"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "Peter Quirl",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819789946"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396afd659ad6461ab2d13d2"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "Spider man",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819798226"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396aff959ad6461ab2d13db"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "nisha",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819833958"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396b00e59ad6461ab2d13df"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "Siva",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670819854315"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396b50ef12af02fe745ec9a"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "Siva",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670821134763"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396b52ef12af02fe745ec9c"
+  },
+  "psy": {
+    "$oid": "6396af9b59ad6461ab2d13c9"
+  },
+  "Name": "Sumit kumar",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670821166603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396bf457b8a59a76f4b2400"
+  },
+  "psy": {
+    "$oid": "6396b00759ad6461ab2d13dd"
+  },
+  "Name": "Pawan",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670823749007"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396bf4d7b8a59a76f4b2402"
+  },
+  "psy": {
+    "$oid": "6396b00759ad6461ab2d13dd"
+  },
+  "Name": "Pankaj",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670823757984"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396bf5d7b8a59a76f4b2404"
+  },
+  "psy": {
+    "$oid": "6396b00759ad6461ab2d13dd"
+  },
+  "Name": "Priya ",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670823773603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396bf817b8a59a76f4b2406"
+  },
+  "psy": {
+    "$oid": "6396bf6ce4fbcc922189c85d"
+  },
+  "Name": "Shivani sinha",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670823809418"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396bf8e7b8a59a76f4b2408"
+  },
+  "psy": {
+    "$oid": "6396bf6ce4fbcc922189c85d"
+  },
+  "Name": "Money kumar",
+  "Address": "HollyWood los Angeles",
+  "Email": "milly55@gmail.com",
+  "Phone_number": "7824728987",
+  "Password": "HOLR@fnh8",
+  "Photo": "https://i0.wp.com/collegecore.com/wp-content/uploads/2018/05/facebook-no-profile-picture-icon-620x389.jpg?ssl=1",
+  "date": {
+    "$date": {
+      "$numberLong": "1670823822899"
+    }
+  },
+  "__v": 0
+}]
