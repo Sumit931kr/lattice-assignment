@@ -36,7 +36,7 @@ https://lattice-assignment.vercel.app/data/adding/newPsy/:id
 [https://elements.getpostman.com/redirect?entityId=24874611-763d6e97-9b49-47f3-a92f-d188489a46fb&entityType=collection](https://elements.getpostman.com/redirect?entityId=24874611-763d6e97-9b49-47f3-a92f-d188489a46fb&entityType=collection) to view it in your browser.
 
 
-
+## and database folder have all the id of the hospital and Psychiatrist in it
 
 
 
